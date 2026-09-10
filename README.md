@@ -5,9 +5,7 @@
 
 ## 🚀 Sobre mim
 - 🎓 Estudante de **Ciências da Computação**  na Puc Minas
-- 💻 Apaixonada por tecnologia e desenvolvimento de software  
-- 🌱 Atualmente estudando **Java & Back-End**
-- 🎯 Objetivo: me tornar uma **Desenvolvedora Back-End**
+- 💻 Desenvolvedora Back-end em formação
 
 ---
 
@@ -16,18 +14,11 @@
 
 ---
 
-## 🔧 Ferramentas que uso
 
-![VSCode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+### 🚀 Tecnologias
 
-
-
----
-## 🛠️ Linguagens e Tecnologias  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+Java | Python | JavaScript | C | C++ | SQL
+PostgreSQL | Git | GitHub
 
 ---
 
